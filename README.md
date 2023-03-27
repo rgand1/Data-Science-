@@ -20,13 +20,13 @@ the methodology, and the results.
 ### Technologies Used
 The projects in this portfolio were completed using various technologies, including:
 
--Python
--Jupyter Notebook
--Pandas
--NumPy
--Matplotlib
--Seaborn
--Scikit-learn
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 #Setup and Usage
 To view the projects in this portfolio, simply clone the repository and navigate to 
@@ -36,6 +36,6 @@ an overview of the project, the data sources used, the methodology, and the resu
 To run the code in a Jupyter Notebook, you will need to have Python installed on your 
 computer and install the required packages listed in the project's readme file.
 
-#Contact
+# Contact
 If you have any questions or feedback on my data science projects, feel free to contact 
 me at [rgand@kth.se]. I am always open to collaboration and new opportunities!
