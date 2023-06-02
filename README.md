@@ -13,6 +13,7 @@ demonstrate my proficiency in using various tools and techniques to solve real-w
 Here are the projects that I have included in this portfolio:
 
 Project 1: [Sentiment Analysis](https://github.com/rgand1/Data-Science-/blob/main/sentiment_analysis.ipynb)
+Project 2: [Fraud Card Detection](https://github.com/rgand1/Data-Science-/blob/main/credit_fraud_detection.ipynb)
 
 Each project folder includes a readme file that provides an overview of the project, the data sources used, 
 the methodology, and the results.
